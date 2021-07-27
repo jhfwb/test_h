@@ -13,7 +13,7 @@ setuptools.setup(
     description="暂无软件简介信息",
     long_description=long_description,#详细描述
     long_description_content_type="text/markdown",#详细描述的格式
-    url="https://github.com/jhfwb/test_h", #模块的github仓库地址
+#     url="https://github.com/jhfwb/test_h", #模块的github仓库地址
     packages=setuptools.find_packages(),
     # py_modules=["Tool"],
     classifiers=[# 程序的所属分类列表
